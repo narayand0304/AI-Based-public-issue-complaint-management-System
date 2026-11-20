@@ -4,7 +4,7 @@
 
 A complete web platform for citizens to report public issues (potholes, streetlights, water leakage, drainage, garbage etc.) and for administrators to manage and track them — powered by AI-assisted categorization.
 
-Built for Hackathon by **Chaitanya Patwari & Akash**
+Built for Hackathon by **Narayan Dhumal**
 
 ---
 
